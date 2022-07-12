@@ -1,0 +1,8 @@
+*{
+    background-color: rgb(83, 83, 83);
+}
+.quadro{
+    background-color: rgb(18, 18, 248);
+    border-radius: 3px;
+    background: border-box;
+}
